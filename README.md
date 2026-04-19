@@ -2,5 +2,8 @@
 
 just a young developer trying to get better at every commit while doing homeworks
 
-<img width="900" height="900" alt="java" src="https://github.com/user-attachments/assets/41ca83ec-ba20-4789-a345-5697d62d9840" /> bla bla i can do this and that
+I can do this, I can do that
 
+---
+>I used to do a little, but a little wouldn't do it. So the little got more and more
+-axl Rose
